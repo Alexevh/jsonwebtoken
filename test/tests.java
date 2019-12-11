@@ -2,7 +2,7 @@
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.interfaces.DecodedJWT;
 import com.google.gson.Gson;
-import com.nimbusds.jose.JOSEException;
+
 import io.jsonwebtoken.Claims;
 import java.io.UnsupportedEncodingException;
 import static javax.crypto.Cipher.SECRET_KEY;
